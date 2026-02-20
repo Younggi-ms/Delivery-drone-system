@@ -23,3 +23,20 @@
 - 비행 자세 제어 시스템
 - GPS 데이터 수집 및 피드백
 - 착륙장 인식 알고리즘 설계
+
+## 기체 설계
+### 회로도
+<img width="1976" height="1346" alt="드론 회로도_ALTools_AIUpscaler" src="https://github.com/user-attachments/assets/bacd6901-990b-4f3e-b612-90db7b6e7250" />
+
+- Brokking.net 회로도 참고
+
+### 3D 모델
+<img width="1824" height="1434" alt="드론 3D 모델링1_ALTools_AIUpscaler" src="https://github.com/user-attachments/assets/69c09189-e31e-4a08-a54b-f26ee5597be2" />
+<img width="1824" height="1434" alt="드론 3D 모델링2" src="https://github.com/user-attachments/assets/576ce455-7b53-4440-a673-3b3d395f517d" />
+
+- Fusion360을 이용하여 드론 기체 설계
+
+
+
+
+
