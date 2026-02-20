@@ -36,7 +36,28 @@
 
 - Fusion360을 이용하여 드론 기체 설계
 
+### 기체 구현
 
+<img width="2912" height="2298" alt="드론 구현1" src="https://github.com/user-attachments/assets/21471af5-763f-4bec-b1bd-a16057cfea55" />
+<img width="4000" height="3000" alt="드론 구현2" src="https://github.com/user-attachments/assets/81fb3dda-0e76-4bf9-be0c-ca29237af403" />
+<img width="4032" height="3024" alt="드론 구현3" src="https://github.com/user-attachments/assets/2210793f-1503-4430-b4ad-6e240d7f7073" />
 
+## 프로젝트 결론
+### 실험 결과 요약
+- 드론 기체 구현 성공, 비행 테스트 실행
+- 비행 자세 제어 불가 현상과 기체 Flip 현상 발생
+- 캘리브레이션 값 저장 불가
+### 분석 및 한계
+- 비행 시 기체 모터들의 출력 차이와 초당 각 모터의 출력 변화폭이 매우 큼  
+- Arduino Giga 보드로 사용이 불가능한 라이브러리 존재
+- IMU MEMS Sensor(MPU-6050)가 진동에 매우 취약
+### 향후 개선 방향
+- MPU-9250(9축 기울기 센서)로 교체
+- 전원 켤 때마다 캘리브레이션 진행
+- Arduino Giga 보드에 맞게 라이브러리 파일 수정
+### 프로젝트 의의
+-
+-
+-
 
 
